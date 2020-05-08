@@ -1,0 +1,13 @@
+/* alatsi-regular - latin */
+@font-face {
+  font-family: 'Alatsi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../public/fonts/alatsi-v1-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Alatsi Regular'), local('Alatsi-Regular'),
+  url('../public/fonts/alatsi-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../public/fonts/alatsi-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../public/fonts/alatsi-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../public/fonts/alatsi-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../public/fonts/alatsi-v1-latin-regular.svg#Alatsi') format('svg'); /* Legacy iOS */
+}
